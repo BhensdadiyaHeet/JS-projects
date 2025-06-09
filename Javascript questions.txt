@@ -1,0 +1,126 @@
+Q1. What is javascript ?
+->  Javascript is a single threaded programing language used to add intreactivity in web pages. It execute task line by line.
+
+
+Q2. What is ES6 ?
+->  ES6 is a major update to the JavaScript programming language that was finalized in June 2015. it is known as ECMAScript.
+
+
+Q3. What is a key features of ES6 ?
+->  1. Let and Const
+    2. Arrow function
+    3. Template literals
+    4. Modules
+    5. classes
+    6. Symbol
+    7. Promises
+
+
+Q4. What is console.log ?
+->  The console is object. it provides access to the browser's debugging console,or the terminal is Node.js .
+
+
+Q5. What is console.warn ?
+->  The console.warn() method in JavaScript is used to display warning messages in the browser's console.
+
+
+Q6. What is console.error ?
+->  The console.error() method in JavaScript is used to output error messages to the console.
+
+
+Q7. What is alert ?
+->  It is primarily used to provide information to the user or to display a warning.
+
+
+Q8. What is confirm ?
+->  It is primarily used to obtain user confirmation before proceeding with an action. 
+
+
+Q9. What is prompt ?
+->  The prompt() function in JavaScript is a built-in method that displays a dialog box to the user.
+
+
+Q10. What is Variable ?
+->   A container to store some value.
+
+
+Q11. How many type of variable in js ?
+->   There are three type of variable in js.
+	1. Var
+	2. Let
+	3. Const
+
+
+Q12. Re-declare and Re-initialize both are possible in var variable.
+
+
+Q13. Re-declaration is not possible and Re-initialization is possible in let variable.
+
+
+Q14. Re-declaration and Re-initialization both are not possible in const variable. 
+
+
+
+Q15. What is Declaration ?
+->   Declaration involves introducing a variable name into the program's scope.
+
+
+Q16. What is Initialization ?
+->   Initialization refers to the process of assigning an initial value to a variable or object when it is created.
+
+
+Q17. What is Implicit type conversion ?
+->   isme javascript datatype change krta he.
+
+
+Q18. What is Explicit type conversion ?
+->   isme hmm datatype change krte he.
+
+
+Q19. What is Template literals ?
+->   Template literals are literals delimited with backtick ( ` ) characters, allowing for multi-line strings, string interpolation with embedded expressions, and special constructs called tagged templates.
+
+
+Q20. What is backtick ?
+->   In JavaScript, the backtick (\`) character is used to define template literals, also known as template strings.
+
+
+Q21. How many datatypes in js ?
+->   There are two types of datatypes in js.
+
+
+Q22. Which type of datatypes in javascript ?
+->   1. Primitive
+     2. Non-Primitive
+
+
+Q23. Which function is used for check datatype ?
+->   typeOF() function is used...
+
+
+Q24. what is == ?
+->   This compare the value.
+
+
+Q25. what is === ?
+->   This compare the data type and valuen both.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
